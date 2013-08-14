@@ -1,0 +1,21 @@
+correlations:
+
+look at # lines where:
+- has "bad" word in it
+- all caps
+
+summoner spells (revive?)
+items (number of repeats is 3+?)
+
+strings for regex:
+trash
+shit
+fuck
+garbage
+dumbass
+scrub(s*)
+om(f*)g
+report
+stfu
+noob
+suck
